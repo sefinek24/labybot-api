@@ -1,0 +1,77 @@
+﻿/*
+	Website Style - LabyBOT API [Old] for https://api.atsumi.xyz
+	Copyright © by Nekosumi 2018 - 2021. All rights reserved.
+*/
+
+body {
+    cursor: cell;
+    font-weight: bold
+}
+
+/* URLs */
+a:link {
+    color: #abfffb;
+    text-decoration: none
+}
+a:visited {
+    color: #abfffb
+}
+a:hover {
+    color: #e0f0ff;
+    text-decoration: underline !important
+}
+a:active {
+    color: #00a2cf;
+    text-decoration: underline overline;
+    cursor: wait
+}
+
+/* General */
+.header {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: 0 0 5px #000000;
+    color: #4598e4;
+    font-size: 45px;
+    text-align: center
+}
+.menu {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #fff;
+    text-align: center
+}
+.line {
+    margin-bottom: 17px
+}
+.group {
+    font-family: "Courier New", Courier, monospace;
+    color: #ffff8f;
+    font-size: 30px;
+    margin-bottom: 5px
+}
+.infoDesc {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 25px
+}
+.desc {
+    color: #fff;
+    margin-bottom: 24px
+}
+.footer {
+    color: #fff;
+    text-align: center
+}
+/* Updates */
+.changelog {
+    font-size: 18px;
+    margin-bottom: 5px;
+    font-family: "Calibri", sans-serif;
+}
+
+/* Colors */
+.whi {color:#fff}
+.red {color: #ff0000}
+.green {color: #00ff00}
+.ylw {color: #ffff00}
+.blue {color: #00ffff}
+.opn {color: #40ff00}
