@@ -5,4 +5,4 @@ Poor-quality API for an old LabyBOT intended for Discord servers. Currently, thi
 I haven't been using PHP for a while now, so I don't have the interpreter installed. No screenshots available <:
 
 ## 📃 License
-MIT
+[MIT](LICENSE)
